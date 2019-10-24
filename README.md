@@ -21,3 +21,7 @@ a <==b
 a merge b
 
 git branch -D name branch (deleting brand)
+
+git reset --soft (to commit)
+git reset --mixed (to commit)
+git reset --hard (to commit)
