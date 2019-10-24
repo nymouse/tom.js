@@ -20,4 +20,10 @@ git merge
 a <==b
 a merge b
 
+git reset --soft idcommit
+git reset --mixed idcommit
+git reset --hard idcommit
+
+git revert idcommit
+
 git branch -D name branch (deleting brand)
