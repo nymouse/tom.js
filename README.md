@@ -16,4 +16,8 @@ git reset
 
 git checkout -b branch (branching)
 git checkout branch
-git merge
+git merge 
+a <==b
+a merge b
+
+git branch -D name branch (deleting brand)
