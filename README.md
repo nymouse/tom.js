@@ -1,5 +1,5 @@
 this is just a demo for use git
-git init
+<!-- git init
 git status
 git commit
 
@@ -27,3 +27,5 @@ git reset --hard idcommit
 git revert idcommit
 
 git branch -D name branch (deleting brand)
+gitignore bỏ qua commit cho file
+chalk create color  -->
