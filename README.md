@@ -28,4 +28,7 @@ git revert idcommit
 
 git branch -D name branch (deleting brand)
 gitignore bỏ qua commit cho file
-chalk create color  -->
+chalk (create color)
+luu id de push github
+git config --global credential.helper "cache --timeout=18000" 
+google"gnom-keyring" "git ssh" -->
